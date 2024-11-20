@@ -1,0 +1,12 @@
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản Lý Thư Viên.csproj.AssemblyReference.cache
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản_Lý_Thư_Viên.Properties.Resources.resources
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản Lý Thư Viên.csproj.GenerateResource.cache
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản Lý Thư Viên.csproj.CoreCompileInputs.cache
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\bin\Debug\Quản Lý Thư Viên.exe.config
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\bin\Debug\Quản Lý Thư Viên.exe
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\bin\Debug\Quản Lý Thư Viên.pdb
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản Lý Thư Viên.exe
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản Lý Thư Viên.pdb
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản_Lý_Thư_Viên.Độc_giả.resources
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản_Lý_Thư_Viên.frmMain.resources
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Dự án quản lý thư viên\Quản Lý Thư Viên\Quản Lý Thư Viên\obj\Debug\Quản_Lý_Thư_Viên.frmNV.resources
